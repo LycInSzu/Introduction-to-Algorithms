@@ -1,2 +1,2 @@
 # Introduction-to-Algorithms
-My test with learning 《Introduction to Algorithms》
+My practice with learning 《Introduction to Algorithms》
